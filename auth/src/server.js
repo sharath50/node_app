@@ -6,7 +6,7 @@ require("dotenv").config();
 
 // routers
 app.get("/", (req, res) => {
-  res.send("welcome to my node app from aws");
+  res.send("welcome to auth service");
 });
 
 // app listening
