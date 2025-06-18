@@ -1,2 +1,4 @@
-node_modules/
-.env
+auth/node_modules/
+stream/node_modules/
+stream/.env
+stream/.env
